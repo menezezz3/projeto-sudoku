@@ -43,5 +43,5 @@ mvn exec:java -Dexec.mainClass="com.sudoku.SudokuGui"
 A GUI e a versão terminal possuem gerador de jogo melhorado (gera tabuleiros válidos com nível de dificuldade controlado).
 
 ## Licença
-MIT — fique à vontade para usar e adaptar. Boa sorte no seu portfólio!
+MIT — fique à vontade para usar e adaptar.
 
