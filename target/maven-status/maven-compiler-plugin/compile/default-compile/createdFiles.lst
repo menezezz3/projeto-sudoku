@@ -1,0 +1,5 @@
+com\sudoku\SudokuGenerator.class
+com\sudoku\SudokuSolver.class
+com\sudoku\SudokuTerminal.class
+com\sudoku\SudokuGui.class
+com\sudoku\SudokuGui$1.class
